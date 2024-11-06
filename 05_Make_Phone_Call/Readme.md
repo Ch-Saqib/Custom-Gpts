@@ -1,16 +1,16 @@
-# Create Make Phone Call (Custom Gpt) With OPENAAPI
+# Create Make Phone Call (Custom Gpt) With OPENAPI
 
-### Watch Tutorial:
+#### Watch Tutorial:
 
 https://www.youtube.com/watch?v=J_zViaCCvhE
 
-### Signup Bland.ai a service to Build, Test & Scale AI Phone Agents:
+#### Signup Bland.ai a service to Build, Test & Scale AI Phone Agents:
 
 https://www.bland.ai/
 
-### Instructions and Open API Specifications are provided in this directory.
+#### Instructions and Open API Specifications are provided in this directory.
 
-### To Get Resources from the source subscribe to:
+#### To Get Resources from the source subscribe to:
 
 https://www.skool.com/ai-automation-agency-hub-8466
 
