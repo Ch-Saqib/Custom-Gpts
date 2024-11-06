@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=J_zViaCCvhE
 
 https://www.bland.ai/
 
+### After Signup Get Api Key
+
+> **Note**: This is a secret API and it's require authentication, so set up with `Authentication: ApiKey`.
+
 #### Instructions and Open API Specifications are provided in this directory.
 
 #### To Get Resources from the source subscribe to:
