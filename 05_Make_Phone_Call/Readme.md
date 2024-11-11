@@ -2,7 +2,7 @@
 
 #### Watch Tutorial:
 
-
+https://www.youtube.com/watch?v=mAifo5KPvMM
 
 #### Signup Bland.ai a service to Build, Test & Scale AI Phone Agents:
 
