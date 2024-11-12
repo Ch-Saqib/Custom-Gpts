@@ -56,7 +56,7 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
 
   Create a New Zap: Click on the “Create” button, this will start the process of creating a new automated workflow.
 
-<image src="images/zappub.png"/>
+<image src="images/createzap.png"/>
 
 
 Once new Zap windows open then you have two options on screen first one will be Trigger and the second will be Action
