@@ -30,7 +30,7 @@ To begin setting up your custom GPT, follow these steps:
 
  2. Access the Custom GPTs Section Once logged in, click on your profile avatar icon located in the top-right corner of the page. From the dropdown menu, select the “My GPTs” option.
 
-<image src="images/MyGpts.png"/>
+<image src="images/MyGPTs.png"/>
 
   3. Create a New GPT:
 
