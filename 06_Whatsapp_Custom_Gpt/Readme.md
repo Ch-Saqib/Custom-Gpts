@@ -78,10 +78,10 @@ Configure the Trigger:
 ### If you test with custom GPT, then integrate GPT with Zapier:
 
    - Go to the custom GPT screen in ChatGPT.
-   -  Click on the “Create New Action” button. This will open a new screen.
-   -  Paste your Zapier webhook schema with the desired webhook input parameters.   
+   - Click on the “Create New Action” button. This will open a new screen.
+   - Paste your Zapier webhook schema with the desired webhook input parameters.   
 
-   1<image src="images/int-gpt.png"/> 2<image src="images/schema.png"/>
+   1<image src="images/inte-gpt.png"/> 2<image src="images/schema.png"/>
 
 ## Here is the schema :
 
