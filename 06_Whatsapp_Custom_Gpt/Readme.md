@@ -1,4 +1,4 @@
-## Custom GPT to Send WhatsApp Messages with Zapier
+# Custom GPT to Send WhatsApp Messages with Zapier
 
 In today’s digital age, instant communication is vital. WhatsApp, with its vast user base, has become a preferred communication tool for many businesses and individuals.
 
