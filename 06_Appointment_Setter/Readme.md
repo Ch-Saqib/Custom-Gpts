@@ -2,6 +2,11 @@
 
 ### Watch Tutorial:
 
+### Resources :
+
+https://synthflow.ai/
+
+https://www.twilio.com/en-us
 
 ### Instructions : 
 
